@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-homework-template/static/css/main.d7e24ddd.css",
+    "main.js": "/react-homework-template/static/js/main.2b3c74bd.js",
+    "static/js/751.7e6804b3.chunk.js": "/react-homework-template/static/js/751.7e6804b3.chunk.js",
+    "static/js/690.c977f302.chunk.js": "/react-homework-template/static/js/690.c977f302.chunk.js",
+    "static/js/352.feb20441.chunk.js": "/react-homework-template/static/js/352.feb20441.chunk.js",
+    "static/js/106.fcbd5be6.chunk.js": "/react-homework-template/static/js/106.fcbd5be6.chunk.js",
+    "static/js/59.421ad276.chunk.js": "/react-homework-template/static/js/59.421ad276.chunk.js",
+    "static/media/172053-mac_os-os_x_mountain_lion-os_h_lev-operacionnaya_sistema-yabloko-3840x2160.png": "/react-homework-template/static/media/172053-mac_os-os_x_mountain_lion-os_h_lev-operacionnaya_sistema-yabloko-3840x2160.01124fdbf266904cadbb.png",
+    "index.html": "/react-homework-template/index.html",
+    "main.d7e24ddd.css.map": "/react-homework-template/static/css/main.d7e24ddd.css.map",
+    "main.2b3c74bd.js.map": "/react-homework-template/static/js/main.2b3c74bd.js.map",
+    "751.7e6804b3.chunk.js.map": "/react-homework-template/static/js/751.7e6804b3.chunk.js.map",
+    "690.c977f302.chunk.js.map": "/react-homework-template/static/js/690.c977f302.chunk.js.map",
+    "352.feb20441.chunk.js.map": "/react-homework-template/static/js/352.feb20441.chunk.js.map",
+    "106.fcbd5be6.chunk.js.map": "/react-homework-template/static/js/106.fcbd5be6.chunk.js.map",
+    "59.421ad276.chunk.js.map": "/react-homework-template/static/js/59.421ad276.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7e24ddd.css",
+    "static/js/main.2b3c74bd.js"
+  ]
+}
