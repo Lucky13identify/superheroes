@@ -13,3 +13,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+ul,
+h1 {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+li {
+  list-style: none;
+}
+body {
+  color: white;
+  padding: 20px;
+  background-image: url(../src/pictures/172053-mac_os-os_x_mountain_lion-os_h_lev-operacionnaya_sistema-yabloko-3840x2160.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
