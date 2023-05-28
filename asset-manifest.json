@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/superheroes/static/css/main.d1de88ee.css",
-    "main.js": "/superheroes/static/js/main.f8a3d5b7.js",
-    "static/js/751.7e6804b3.chunk.js": "/superheroes/static/js/751.7e6804b3.chunk.js",
-    "static/js/690.c977f302.chunk.js": "/superheroes/static/js/690.c977f302.chunk.js",
+    "main.js": "/superheroes/static/js/main.284cc563.js",
+    "static/js/751.84d19e03.chunk.js": "/superheroes/static/js/751.84d19e03.chunk.js",
+    "static/js/690.3beb7a89.chunk.js": "/superheroes/static/js/690.3beb7a89.chunk.js",
     "static/js/352.feb20441.chunk.js": "/superheroes/static/js/352.feb20441.chunk.js",
     "static/js/106.fcbd5be6.chunk.js": "/superheroes/static/js/106.fcbd5be6.chunk.js",
     "static/js/59.421ad276.chunk.js": "/superheroes/static/js/59.421ad276.chunk.js",
     "static/media/172053-mac_os-os_x_mountain_lion-os_h_lev-operacionnaya_sistema-yabloko-3840x2160.png": "/superheroes/static/media/172053-mac_os-os_x_mountain_lion-os_h_lev-operacionnaya_sistema-yabloko-3840x2160.01124fdbf266904cadbb.png",
     "index.html": "/superheroes/index.html",
     "main.d1de88ee.css.map": "/superheroes/static/css/main.d1de88ee.css.map",
-    "main.f8a3d5b7.js.map": "/superheroes/static/js/main.f8a3d5b7.js.map",
-    "751.7e6804b3.chunk.js.map": "/superheroes/static/js/751.7e6804b3.chunk.js.map",
-    "690.c977f302.chunk.js.map": "/superheroes/static/js/690.c977f302.chunk.js.map",
+    "main.284cc563.js.map": "/superheroes/static/js/main.284cc563.js.map",
+    "751.84d19e03.chunk.js.map": "/superheroes/static/js/751.84d19e03.chunk.js.map",
+    "690.3beb7a89.chunk.js.map": "/superheroes/static/js/690.3beb7a89.chunk.js.map",
     "352.feb20441.chunk.js.map": "/superheroes/static/js/352.feb20441.chunk.js.map",
     "106.fcbd5be6.chunk.js.map": "/superheroes/static/js/106.fcbd5be6.chunk.js.map",
     "59.421ad276.chunk.js.map": "/superheroes/static/js/59.421ad276.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1de88ee.css",
-    "static/js/main.f8a3d5b7.js"
+    "static/js/main.284cc563.js"
   ]
 }
