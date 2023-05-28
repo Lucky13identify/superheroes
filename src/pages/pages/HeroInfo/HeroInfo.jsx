@@ -8,11 +8,11 @@ import { FormSettings } from '../../../components/FormSetting/FormSettings';
 export default function HeroInfo({ heroI }) {
   const [modal, setModal] = useState(false);
   const [nickName, setNickname] = useState('');
-  const [realName, setRealName] = useState('dima');
-  const [description, setDescription] = useState('dima');
-  const [superpowers, setSuperpowers] = useState('dima');
-  const [catchPhrase, setCatchPhrase] = useState('dima');
-  const [heroImage, setHeroImage] = useState('dima');
+  const [realName, setRealName] = useState('');
+  const [description, setDescription] = useState('');
+  const [superpowers, setSuperpowers] = useState('');
+  const [catchPhrase, setCatchPhrase] = useState('');
+  const [heroImage, setHeroImage] = useState('');
 
   const { id } = useParams();
 

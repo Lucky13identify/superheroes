@@ -13,7 +13,6 @@ export const App = () => {
   const [hero, setHero] = useState(false);
   const [page, setPage] = useState(1);
 
-  console.log(hero);
   useEffect(() => {
     getAllHeroes(5, page).then(result => {
       setHeroes(result.data);
@@ -33,7 +32,8 @@ export const App = () => {
       <Suspense fallback={<div>Loading...</div>}>
         <Routes>
           <Route
-            path="/"
+            exact
+            path="/superheroes"
             element={
               <>
                 <HeroForm hero={setHero} />
@@ -46,7 +46,7 @@ export const App = () => {
               </>
             }
           />
-          <Route path="/:id" element={<HeroInfo heroI={setHero} />} />
+          <Route path="/super/:id" element={<HeroInfo heroI={setHero} />} />
         </Routes>
       </Suspense>
     </main>

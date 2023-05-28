@@ -38,7 +38,7 @@ export default function HeroesList({ heroes, onDelete, pageP, items }) {
               >
                 image
               </div> */}
-                <NavLink to={`${hero.id}`}>
+                <NavLink to={`/super/${hero.id}`}>
                   <b>Nickname</b>: {hero.nickName}
                 </NavLink>
                 <Button type="click" onClick={() => onDelete(hero.id)}>
